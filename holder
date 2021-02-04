@@ -1,0 +1,1 @@
+/usr/local/bin/mpirun -n 2 /home/ndreitz/Project_1/parallel-add-list
